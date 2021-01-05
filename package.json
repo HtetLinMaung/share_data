@@ -1,0 +1,12 @@
+{
+  "name": "share_data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "share": "git add --all && git commit -am 'upload' && git push"
+  },
+  "author": "",
+  "license": "ISC"
+}
